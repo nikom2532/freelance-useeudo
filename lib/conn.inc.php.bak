@@ -1,5 +1,0 @@
-<?
-	  $db=new DB('localhost','food','1234','shoppingcart');
-	  
-	  //('host','username','password','database')
-?>
